@@ -14,4 +14,4 @@ Koga/CharacterEventObserver.cpp:
 #    .data: [0x8035a380, 0x8035a38c]
 #    .sdata: [0x804d2dd0, 0x804d2dd8]
 EnReel.cpp:
-    .text: [0x801413e4, 0x801413f4]
+    .text: [0x801412d4, 0x801413f4]

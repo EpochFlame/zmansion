@@ -1,6 +1,8 @@
 #ifndef _TYPES_H
 #define _TYPES_H
 
+#include "../tools/ppcdis/include/ppcdis.h"
+
 typedef int BOOL;
 
 typedef signed char s8;

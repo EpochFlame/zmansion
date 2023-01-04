@@ -75,6 +75,8 @@ global:
 
     0x8000965c: calculateLookAtAngle__Fff
     0x80127870: func_80127870__Ff
+    0x804dc55c: DEG_TO_RAD
+    0x804dc560: ANGLE_TO_FLOAT
 
     # SDK Symbols
     # Base
